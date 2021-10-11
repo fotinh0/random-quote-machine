@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+  
+body {
+  font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+  font-size: 1.2rem;
+  margin: 15px 0;
+  color: #5C7AEA;
+}
+
+p {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #FEF9EF;
+  background-image: url("https://www.transparenttextures.com/patterns/brick-wall-dark.png");
+}
+
+#quote-box {
+  width: 450px;
+  padding: 40px;
+  border-radius: 10px;
+  background-color: #FEF9EF;
+  box-shadow: 10px 5px 5px #1DA1F2;
+}
+
+.actions {
+  display: flex;
+  align-items: center;
+}
+
+.button,
+#tweet-quote{
+  background-color: #1DA1F2;
+  display: inline-block;
+  border-radius: 5px;
+  padding: 5px 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+button {
+  background-color: #1DA1F2;
+  font-family: 'Roboto Mono', monospace;
+}
+
+#tweet-quote {
+  margin-left: 15px;
+  padding: 7px 10px;
+  text-decoration: none;
+}
+
+.twitter {
+  width: 12rem;
+}
+
+
+@media (max-width: 480px){
+  #quote-box {
+    width: 200px;
+  }
+}
