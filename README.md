@@ -1,7 +1,8 @@
 # freeCodeCamp - Front End Development Libraries - Random Quote Machine
 
-Random Quote Machine solution from the [Front End Development Libraries certification](https://www.freecodecamp.org/learn/front-end-development-libraries/) on freeCodeCamp.
+Random Quote Machine solution for the [Front End Development Libraries certification](https://www.freecodecamp.org/learn/front-end-development-libraries/) on freeCodeCamp.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/254447a6-94bb-4cf1-87ec-54f8121e121d/deploy-status)](https://app.netlify.com/sites/random-quote-machine-fc/deploys)
 ## Table of contents
 
 - [Overview](#overview)
@@ -40,22 +41,24 @@ Fulfill the below user stories and get all of the tests to pass.
 - User Story #11: The #quote-box wrapper element should be horizontally centered. Please run tests with browser's zoom level at 100% and page maximized.
 
 ### Screenshots
-[screenshot]()
+![quote-machine-screenshot](https://user-images.githubusercontent.com/67170897/136814598-a70b9393-3859-4ef8-bd5a-0fecd7560749.PNG)
+![quote-machine-screenshot-2](https://user-images.githubusercontent.com/67170897/136814600-32c1c46f-bbf7-4627-8530-de444ebff7a8.PNG)
 
 ### Links
 
-- Solution URL: []()
-- Live Site URL: []()
+- Solution URL: [https://github.com/fotinh0/random-quote-machine](https://github.com/fotinh0/random-quote-machine)
+- Live Site URL: [https://random-quote-machine-fc.netlify.app/](https://random-quote-machine-fc.netlify.app/)
+
 
 ### Built with
 
 - React
 
 ### Useful resources
-- 
+- [@natebass/quotes.json](https://gist.github.com/natebass/b0a548425a73bdf8ea5c618149fe1fce)
 
 ## Author
 
-- GitHub - [@Fotinh0](https://github.com/fotinh0)
 - Website - [foticeci.com](https://www.foticeci.com)
+- GitHub - [@Fotinh0](https://github.com/fotinh0)
 - LinkedIn - [@Foti-Ceci](https://www.linkedin.com/in/foti-ceci/)
