@@ -4,7 +4,7 @@ import QuoteBox from "./components/QuoteBox";
 function App() {
   return (
     <div class="main">
-      <img className="twitter" src="./twitter.png" alt="twitter logo"/>;
+      <img className="twitter" src="./twitter.png" alt="twitter logo"/>
       <QuoteBox />
     </div>
   )
